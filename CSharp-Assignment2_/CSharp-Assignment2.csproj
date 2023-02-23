@@ -1,0 +1,19 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <OutputType>Exe</OutputType>
+    <TargetFramework>net6.0</TargetFramework>
+    <RootNamespace>CSharp_Assignment2</RootNamespace>
+    <ImplicitUsings>enable</ImplicitUsings>
+    <Nullable>enable</Nullable>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <None Remove="Four_Principles\" />
+    <None Remove="ColorAndBall\" />
+  </ItemGroup>
+  <ItemGroup>
+    <Folder Include="Four_Principles\" />
+    <Folder Include="ColorAndBall\" />
+  </ItemGroup>
+</Project>

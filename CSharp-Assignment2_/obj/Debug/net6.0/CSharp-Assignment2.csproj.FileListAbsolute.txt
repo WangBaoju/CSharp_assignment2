@@ -1,0 +1,15 @@
+/Users/baojuwang/Desktop/Training/C#/CSharp_assignment2/CSharp-Assignment2/CSharp-Assignment2/obj/Debug/net6.0/CSharp-Assignment2.csproj.AssemblyReference.cache
+/Users/baojuwang/Desktop/Training/C#/CSharp_assignment2/CSharp-Assignment2/CSharp-Assignment2/obj/Debug/net6.0/CSharp-Assignment2.GeneratedMSBuildEditorConfig.editorconfig
+/Users/baojuwang/Desktop/Training/C#/CSharp_assignment2/CSharp-Assignment2/CSharp-Assignment2/obj/Debug/net6.0/CSharp-Assignment2.AssemblyInfoInputs.cache
+/Users/baojuwang/Desktop/Training/C#/CSharp_assignment2/CSharp-Assignment2/CSharp-Assignment2/obj/Debug/net6.0/CSharp-Assignment2.AssemblyInfo.cs
+/Users/baojuwang/Desktop/Training/C#/CSharp_assignment2/CSharp-Assignment2/CSharp-Assignment2/obj/Debug/net6.0/CSharp-Assignment2.csproj.CoreCompileInputs.cache
+/Users/baojuwang/Desktop/Training/C#/CSharp_assignment2/CSharp-Assignment2/CSharp-Assignment2/bin/Debug/net6.0/CSharp-Assignment2
+/Users/baojuwang/Desktop/Training/C#/CSharp_assignment2/CSharp-Assignment2/CSharp-Assignment2/bin/Debug/net6.0/CSharp-Assignment2.deps.json
+/Users/baojuwang/Desktop/Training/C#/CSharp_assignment2/CSharp-Assignment2/CSharp-Assignment2/bin/Debug/net6.0/CSharp-Assignment2.runtimeconfig.json
+/Users/baojuwang/Desktop/Training/C#/CSharp_assignment2/CSharp-Assignment2/CSharp-Assignment2/bin/Debug/net6.0/CSharp-Assignment2.dll
+/Users/baojuwang/Desktop/Training/C#/CSharp_assignment2/CSharp-Assignment2/CSharp-Assignment2/bin/Debug/net6.0/CSharp-Assignment2.pdb
+/Users/baojuwang/Desktop/Training/C#/CSharp_assignment2/CSharp-Assignment2/CSharp-Assignment2/obj/Debug/net6.0/CSharp-Assignment2.dll
+/Users/baojuwang/Desktop/Training/C#/CSharp_assignment2/CSharp-Assignment2/CSharp-Assignment2/obj/Debug/net6.0/refint/CSharp-Assignment2.dll
+/Users/baojuwang/Desktop/Training/C#/CSharp_assignment2/CSharp-Assignment2/CSharp-Assignment2/obj/Debug/net6.0/CSharp-Assignment2.pdb
+/Users/baojuwang/Desktop/Training/C#/CSharp_assignment2/CSharp-Assignment2/CSharp-Assignment2/obj/Debug/net6.0/CSharp-Assignment2.genruntimeconfig.cache
+/Users/baojuwang/Desktop/Training/C#/CSharp_assignment2/CSharp-Assignment2/CSharp-Assignment2/obj/Debug/net6.0/ref/CSharp-Assignment2.dll
